@@ -1,181 +1,78 @@
 <div align="center">
 
-<!-- Replace with your custom banner -->
+<br>
 
-<img src="YOUR_BANNER_URL_HERE" alt="Bobur Toshpulatov Banner" width="100%"/>
+### ⌘ &nbsp; bobur toshpulatov
 
-<br><br>
+### iOS Developer · Apple Developer Academy
+#### Naples, Italy 🇮🇹
 
-<img src="https://profile-counter.glitch.me/BoburToshpulatov/count.svg" alt="Visitor Count"/>
+<br>
 
-# Bobur Toshpulatov
-
-### iOS Developer • Software Engineer
-
-Building thoughtful mobile experiences with Swift and Apple's ecosystem.
-
-📍 Naples, Italy
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A84FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobur-toshpo-latov-5aab40336)
+[![App Store](https://img.shields.io/badge/App%20Store-0D0D0F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/it/app/clavem/id6759971969)
+[![Gmail](https://img.shields.io/badge/bobur.vocal@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bobur.vocal@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+I build native applications for Apple platforms — focused on clean architecture, meaningful accessibility, and experiences that feel at home in the Apple ecosystem. Currently at the Apple Developer Academy in Naples, where I ship real products and collaborate like it's a real studio.
 
-I'm an iOS developer passionate about creating technology that solves real-world problems and improves people's lives.
-
-My interests include mobile development, accessibility, artificial intelligence, educational technology, and designing experiences that make a meaningful impact.
-
-* 📱 Building native applications for Apple platforms
-* 🚀 Passionate about creating products with social impact
-* 🤖 Exploring AI-powered user experiences
-* ♿ Interested in accessibility-first development
-* 🌍 Always learning, improving, and embracing new challenges
-* 🇮🇹 Currently based in Naples, Italy
+**Currently exploring** → on-device AI · Vision Pro · accessibility-first design · SwiftData
 
 ---
 
-## Connect With Me
+## // shipped
 
-<p align="left">
-  <a href="mailto:bobur.vocal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/bobur-toshpo-latov-5aab40336">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/bobur.toshpulatov.351/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://www.facebook.com/profile.php?id=100093666172321">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+| App | What it does | Stack |
+|-----|-------------|-------|
+| **[Clavem](https://apps.apple.com/it/app/clavem/id6759971969)** `App Store` | Property management for landlords — tenant workflows, property admin, and modern UX | SwiftUI · CloudKit |
+| **[BeMyAI](https://github.com/BoburToshpulatov/BeMyAI-Challenge2)** | AI-powered visual assistant for visually impaired users | SwiftUI · Vision · CoreML |
+| **[Anatomy Atlas](https://github.com/BoburToshpulatov/Anatomy-Atlas-VisionPro)** | Immersive 3D anatomy learning on Apple Vision Pro | RealityKit · ARKit · visionOS |
+| **[Lost & Found](https://github.com/BoburToshpulatov/LOST-FOUND)** | QR-based platform to reunite lost items with their owners | SwiftUI · Core Data |
+| **[Travelly](https://github.com/BoburToshpulatov/Challenge1-Travelly)** | Offline travel companion — useful without a signal | SwiftUI · CoreLocation |
+| **[Pilgrimage](https://github.com/BoburToshpulatov/Pilgrimage-iOS-app)** | Guidance and resources for pilgrimage journeys | SwiftUI |
 
 ---
 
-## Featured Projects
+## // stack
 
-### 🏠 Clavem
+```swift
+let platforms: [String] = ["iOS", "iPadOS", "visionOS", "watchOS"]
 
-Property management application designed for landlords and property owners. The app helps streamline property administration, tenant management, and everyday workflows through a modern mobile experience.
+let native: [String] = [
+    "Swift", "SwiftUI", "UIKit",
+    "Combine", "SwiftData", "Core Data",
+    "CloudKit", "ARKit", "RealityKit",
+    "Core ML", "Vision", "AVFoundation"
+]
 
-🔗 Repository: https://github.com/BoburToshpulatov/Challenge5-CLAVEM
-
-📱 App Store: https://apps.apple.com/it/app/clavem/id6759971969
-
----
-
-### 🫀 Anatomy Atlas
-
-Interactive anatomy learning experience focused on making complex anatomical concepts easier to understand through immersive 3D visualization and spatial interaction.
-
-🔗 Repository: https://github.com/BoburToshpulatov/Anatomy-Atlas-VisionPro
-
----
-
-### ♿ BeMyAI
-
-AI-powered accessibility application designed to help visually impaired users better understand and navigate their surroundings.
-
-🔗 Repository: https://github.com/BoburToshpulatov/BeMyAI-Challenge2
+let practices: [String] = [
+    "MVVM", "Clean Architecture",
+    "Accessibility (WCAG / Apple HIG)",
+    "TDD", "Agile / Scrum"
+]
+```
 
 ---
 
-### 🔍 Lost & Found
+## // values
 
-QR-based platform that helps reunite lost belongings with their owners through unique item registration and recovery workflows.
+> Technology is most meaningful when it expands what people can do — especially people who are often left out of the design process.
 
-🔗 Repository: https://github.com/BoburToshpulatov/LOST-FOUND
-
----
-
-### ✈️ Travelly
-
-Offline travel companion that provides recommendations and useful travel information even when internet access is unavailable.
-
-🔗 Repository: https://github.com/BoburToshpulatov/Challenge1-Travelly
-
----
-
-### 🕋 Pilgrimage
-
-Mobile application designed to support users throughout their pilgrimage journey by providing guidance, information, and useful resources.
-
-🔗 Repository: https://github.com/BoburToshpulatov/Pilgrimage-iOS-app
-
----
-
-## Tech Stack
-
-### Apple Development
-
-Swift • SwiftUI • UIKit • Combine • Core Data • CloudKit • ARKit • RealityKit
-
-### Web & Backend
-
-Node.js • Express • MongoDB • React • Next.js • TypeScript
-
----
-
-## Current Focus
-
-* Building high-quality iOS applications
-* Software architecture and scalable codebases
-* Accessibility-first development
-* Artificial Intelligence integration
-* Educational technology
-* Continuous improvement in Swift and SwiftUI
-
----
-
-## Education & Experience
-
-### 🎓 Apple Developer Academy
-
-Focused on:
-
-* iOS Development
-* Human Interface Design
-* Accessibility
-* Product Development
-* Agile Methodologies
-* Team Collaboration
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BoburToshpulatov&show_icons=true&hide_border=true" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoburToshpulatov&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoburToshpulatov&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoburToshpulatov&hide_border=true" />
-</p>
-
----
-
-## Philosophy
-
-> I believe technology is most meaningful when it empowers people, solves real problems, and creates positive impact.
+Accessibility isn't a checklist item in my work. It's a design constraint I welcome from day one, because it makes every product better for everyone.
 
 ---
 
 <div align="center">
 
-### Thanks for visiting 👋
-
-Always open to collaborating on interesting projects and connecting with fellow developers.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoburToshpulatov&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=0A84FF&icon_color=0A84FF&text_color=EBEBF5&ring_color=0A84FF)
 
 </div>
 
+---
+
+<div align="center">
+<sub>Open to collaborations on impactful iOS projects · <a href="mailto:bobur.vocal@gmail.com">say hello</a></sub>
+</div>
