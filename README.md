@@ -12,15 +12,15 @@
 
 <p>
   <a href="mailto:bobur.vocal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-bobur.vocal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/bobur-toshpulatov">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Bobur%20Toshpulatov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/BoburToshpulatov">
-    <img src="https://img.shields.io/github/followers/BoburToshpulatov?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-BoburToshpulatov-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -40,11 +40,12 @@ role:
 location: Naples, Italy
 
 current:
-  - Apple Developer Academy
-  - Searchanise
+  education: Apple Developer Academy Student
+  work: Technical Support Specialist / Software Developer at Searchanise
 
 building:
   - iOS Applications
+  - iPadOS Applications
   - visionOS Experiences
   - Accessibility Solutions
   - Educational Technology
@@ -154,22 +155,24 @@ https://github.com/BoburToshpulatov/LOST-FOUND
 
 ## Apple Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=swift" />
-</p>
-
-<p align="center">
-
-Swift • SwiftUI • UIKit • Combine • SwiftData • CloudKit • RealityKit • ARKit • visionOS
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Combine-111111?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudKit-007AFF?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/RealityKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARKit-111111?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/visionOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ---
 
 ## Web Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,mongodb,git,github" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,mongodb,git,github" />
 </p>
 
 ---
@@ -210,17 +213,12 @@ let currentInterests = [
 # GitHub Analytics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BoburToshpulatov&show_icons=true&theme=transparent&rank_icon=github" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoburToshpulatov&layout=compact&theme=transparent" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BoburToshpulatov&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoburToshpulatov&layout=compact&theme=transparent" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BoburToshpulatov&theme=transparent" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BoburToshpulatov&theme=flat&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoburToshpulatov&theme=transparent" />
 </p>
 
 ---
